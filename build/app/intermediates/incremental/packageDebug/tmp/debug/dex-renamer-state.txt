@@ -1,0 +1,4 @@
+#Mon Oct 10 04:56:24 MSK 2022
+base.0=C\:\\Users\\HelloHaystack\\Desktop\\newbob\\bankofbaku-mobile\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

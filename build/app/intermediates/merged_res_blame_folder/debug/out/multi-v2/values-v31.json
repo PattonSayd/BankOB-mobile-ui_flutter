@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\HelloHaystack\\Desktop\\newbob\\bankofbaku-mobile\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v31\\values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HelloHaystack\\Desktop\\newbob\\bankofbaku-mobile\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
+                    "from": {
+                        "startLines": "3,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,691",
+                        "endLines": "5,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "340,855"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,227",
+                        "endLines": "4,7",
+                        "endColumns": "12,12",
+                        "endOffsets": "222,391"
+                    }
+                }
+            ]
+        }
+    ]
+}
